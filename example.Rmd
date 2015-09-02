@@ -23,5 +23,3 @@ source('4.2.R')
 ```{r echo=FALSE}
 source('4.3.R')
 ```
-
-
