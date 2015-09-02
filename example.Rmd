@@ -1,0 +1,27 @@
+---
+title: "BioLab1"
+author: "Marcial Hernández"
+date: "2 de septiembre de 2015"
+output: pdf_document
+---
+
+Desarrollo laboratorio 1 de BioInformatica. Puede ver el codigo fuente visitando el repositorio <https://github.com/marcialhernandez/BIOLAB1.git>.
+
+
+```{r echo=FALSE}
+#knitr::read_chunk('4.2.R')
+```
+
+**Resultados Actividad 4.2**
+
+```{r echo=FALSE}
+source('4.2.R')
+```
+
+**Resultados Actividad 4.3**
+
+```{r echo=FALSE}
+source('4.3.R')
+```
+
+
